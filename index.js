@@ -4,7 +4,7 @@ var sec =0;
 var count =0;
 
 
-var timer = false;
+var timer = false; 
 
 function start(){
   timer = true;
